@@ -56,17 +56,18 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhanush-Annam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Annam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<img
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dhanush-Annam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
+alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Dhanush-Annam&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution Streak" />
-
+<img
+src="https://streak-stats.demolab.com?user=Dhanush-Annam&theme=tokyonight&hide_border=true&background=0d1117"
+alt="Contribution Streak" />
 
 </div>
 
----
 
 <!-- <div align="center">
 
